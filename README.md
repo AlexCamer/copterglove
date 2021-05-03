@@ -1,2 +1,3 @@
-# Glove-Controller-for-Quadcopter
-The following code (arduino) involves the collection and filtering of data received from gyroscope, button and flex sensors.
+# copterglove
+
+This repository contains software for an arduino-based quadcopter glove-controller. The glove was assembled using a gyroscope for forward, backward, and sideways movement and flex sensors to control height. Sensors and micro-controller were interfaced using SPI protocol for serial communication.
